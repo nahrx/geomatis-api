@@ -1,0 +1,16 @@
+__pycache__/
+__design/
+
+#ignore uploaded results from the georeferencing process, except for 1 example result
+uploads/*
+!uploads/*-example.jpg
+!uploads/*-example.jgw
+
+#ignore master maps except for example.geojson
+example/master-maps/*
+!example/master-maps/example.geojson
+
+###########
+.env
+*.exe
+makefile
