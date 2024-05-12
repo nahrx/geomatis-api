@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/nahargo/geomatis-api/types"
+import "github.com/nahrx/geomatis-api/types"
 
 type Storage interface {
 	TableExist(string) (bool, error)

@@ -1,4 +1,4 @@
-module github.com/nahargo/geomatis-api
+module github.com/nahrx/geomatis-api
 
 go 1.21.6
 

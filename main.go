@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/nahargo/geomatis-api/api"
-	"github.com/nahargo/geomatis-api/storage"
+	"github.com/nahrx/geomatis-api/api"
+	"github.com/nahrx/geomatis-api/storage"
 )
 
 func main() {

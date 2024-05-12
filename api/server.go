@@ -16,9 +16,9 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/gorilla/mux"
-	"github.com/nahargo/geomatis-api/storage"
-	"github.com/nahargo/geomatis-api/types"
-	"github.com/nahargo/geomatis-api/util"
+	"github.com/nahrx/geomatis-api/storage"
+	"github.com/nahrx/geomatis-api/types"
+	"github.com/nahrx/geomatis-api/util"
 )
 
 type Server struct {

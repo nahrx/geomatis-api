@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nahargo/geomatis-api/types"
+	"github.com/nahrx/geomatis-api/types"
 	"github.com/rwcarlsen/goexif/exif"
 )
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	_ "github.com/lib/pq"
-	"github.com/nahargo/geomatis-api/types"
+	"github.com/nahrx/geomatis-api/types"
 
 	"github.com/twpayne/go-geom/encoding/geojson"
 )
